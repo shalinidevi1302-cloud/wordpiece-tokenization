@@ -1,0 +1,14 @@
+play
+player
+playing
+played
+play
+player
+read
+reader
+reading
+read
+write
+writer
+writing
+write
